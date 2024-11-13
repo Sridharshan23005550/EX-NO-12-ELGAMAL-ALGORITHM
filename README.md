@@ -83,7 +83,7 @@ int main() {
 
 
 ## Output:
-![Uploading Screenshot 2024-11-13 103823.png…]()
+![Screenshot 2024-11-13 103823](https://github.com/user-attachments/assets/83a63199-af1a-4b5d-bb95-0e1dafabd477)
 
 
 ## Result:
