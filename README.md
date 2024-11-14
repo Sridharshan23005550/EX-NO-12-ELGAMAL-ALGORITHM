@@ -1,5 +1,5 @@
-# Develop By : Naveen Kumar T
-# Req No : 212223220067
+# Develop By : Sridharshan D
+# Req No : 212223040205
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
@@ -83,7 +83,8 @@ int main() {
 
 
 ## Output:
-![Screenshot 2024-11-13 103823](https://github.com/user-attachments/assets/83a63199-af1a-4b5d-bb95-0e1dafabd477)
+![Screenshot (60)](https://github.com/user-attachments/assets/6163502f-f29b-4584-bcea-a3d83dd8b91f)
+
 
 
 ## Result:
